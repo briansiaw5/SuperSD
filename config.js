@@ -10,6 +10,6 @@ module.exports = {
         googleMaps: 'your-google-maps-api-key',
         someOtherApi: 'your-other-api-key'
     },
-    environment: 'development version2'
+    environment: 'development version3'
     
 };
